@@ -1,5 +1,9 @@
 package entity;
 
+
+/**
+ * 返回结果
+ */
 public class Result {
 
     private Boolean flag;// 返回结构状态
